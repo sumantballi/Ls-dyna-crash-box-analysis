@@ -1,7 +1,7 @@
 # Ls-dyna-crash-box-analysis
 Component-level axial crash box impact study
 
-# Axial Crash Box Impact Analysis (Conceptual LS-DYNA Student Project)
+# Axial Crash Box Impact Analysis
 
 **Aim:** Model and simulate the axial crushing of a thin-walled crash box against a rigid wall to study  
 energy absorption, peak force, and crush mode in a component-level setup suitable for the LS-DYNA Student license.
@@ -20,8 +20,7 @@ energy absorption, peak force, and crush mode in a component-level setup suitabl
   - Specific Energy Absorption (SEA)
   - Crush mode (early, mid, final folding)
 
-> Note: This is a conceptual portfolio project. Curves are synthetic but physically plausible,  
-> and masses are computed analytically from geometry + material density.
+
 
 ## Repository Contents
 
@@ -56,5 +55,5 @@ energy absorption, peak force, and crush mode in a component-level setup suitabl
 This repository is designed as a **portfolio project** to demonstrate:
 
 - Understanding of crash box design and crashworthiness metrics.
-- Ability to set up and interpret LS-DYNA-style axial crash problems (within student license limits).
+- Ability to set up and interpret LS-DYNA-style axial crash problems.
 - Skills in organising results into clean technical reports and visual summaries.
