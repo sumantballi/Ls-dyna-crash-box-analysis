@@ -1,0 +1,31 @@
+{
+  "geometry_mm": {
+    "b": 60.0,
+    "h": 60.0,
+    "L": 200.0,
+    "t_baseline": 1.2,
+    "t_thick": 1.5
+  },
+  "densities_kg_per_mm3": {
+    "steel": 7.85e-06,
+    "aluminum": 2.7e-06
+  },
+  "masses_kg": {
+    "Baseline (t=1.2 mm, steel)": 0.44311679999999964,
+    "Thick (t=1.5 mm, steel)": 0.55107,
+    "Al-alloy (t=1.2 mm, Al)": 0.15240959999999987,
+    "Triggered (t=1.2 mm + trigger)": 0.44311679999999964
+  },
+  "energies_kJ_to_150mm": {
+    "Baseline (t=1.2 mm, steel)": 4.797138558710682,
+    "Thick (t=1.5 mm, steel)": 6.112916629892567,
+    "Al-alloy (t=1.2 mm, Al)": 4.5191802961298215,
+    "Triggered (t=1.2 mm + trigger)": 4.58803878152853
+  },
+  "sea_kJ_per_kg": {
+    "Baseline (t=1.2 mm, steel)": 10.82590088823237,
+    "Thick (t=1.5 mm, steel)": 11.092813308459121,
+    "Al-alloy (t=1.2 mm, Al)": 29.651546202665877,
+    "Triggered (t=1.2 mm + trigger)": 10.35401677735652
+  }
+}

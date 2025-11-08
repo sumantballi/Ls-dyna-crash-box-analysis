@@ -1,0 +1,7 @@
+Project Title: Axial Crash Box Impact Analysis (LS‑DYNA Student, Conceptual)
+Aim: Model and simulate the axial crushing of a thin‑walled crash box against a rigid wall to study energy absorption, peak force, and crush mode.
+Scope: Component‑level study (crash box) suitable for the student license; variants include thicker wall, aluminum material, and a triggered design.
+Units: mm–ms–Mg–N–MPa. Geometry: 60×60×(1.2–1.5) mm, length 200 mm.
+
+
+LINK: https://chatgpt.com/share/68ccfd24-b890-800f-9a4f-254baa112b38
